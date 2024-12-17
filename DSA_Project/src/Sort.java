@@ -67,6 +67,7 @@ public class Sort {
         return mx;
     }
 
+    // sorts the array digit by digit
     private static void countsort(int arr[], int n, int exp){
         int output[]= new int[n] ;
         int count[] = new int[10];
