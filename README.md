@@ -1,7 +1,7 @@
 Objective:
-The objective is to build an application to compare the efficiency of different sorting algorithms. The 
-application should be able to compare the efficiency of sorting algorithms with their respective 
-asymptotic behavior.
+The objective is to build an application to compare the efficiency of different sorting algorithms. 
+The application should be able to compare the efficiency of sorting algorithms with their respective asymptotic behavior.
+
 Requirements:
 1- Ability to create test data files. Optionally test data files may be created using Microsoft Excel.
 2- The user can choose either to compare the efficiency of an algorithm with another algorithm, or 
